@@ -6,5 +6,9 @@ Preconfigures [pdfkit](https://rubygems.org/gems/pdfkit), [wicked_pdf](https://r
 
 ## Copyright
 
+
+wkhtmltopdf - 0.12.0
+
+
 Copyright (c) 2011 Brad Phelan. See LICENSE.txt for further details.
 
